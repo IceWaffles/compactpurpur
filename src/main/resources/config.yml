@@ -1,0 +1,12 @@
+# Toggle features within the plugin
+# Can entities teleport through the end portal?
+# Default: true
+entity-portal-teleport: true
+
+# Can color codes be used in an anvil? (Requires purpurcompact.anvil-color permission)
+# Default: true
+anvil-color: true
+
+# Should end crystals or respawn anchors explode be disabled?
+# Default: true
+anti-explode: true

@@ -1,0 +1,10 @@
+main: xyz.oribuin.purpurcompact.PurpurCompactPlugin
+name: CompactPurpur
+version: 1.0
+author: Oribuin
+description: Compact purpur features into one plugin
+api-version: 1.16
+permissions:
+  purpurcompact.anvil-color:
+    description: Allows the player to change the name of an item using an anvil
+    default: op
